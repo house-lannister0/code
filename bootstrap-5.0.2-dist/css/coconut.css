@@ -1,0 +1,65 @@
+body {
+	background-color: white;
+}
+
+/* Jumbotron */
+.jumbotron {
+	height: auto;
+	width: 100%;
+	background-color: white;
+	margin-bottom: 60px;
+}
+/* Jumbotron */
+
+/* Logo */
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+/* Logo */
+
+/* Footer */
+.footer {
+	text-align: center;
+ 	padding-top: 20px;
+}
+/* Footer */
+
+/* Screen Size */
+@media screen and (max-width: 573px) {
+	.imgcon {
+		height: auto;
+		width: 100%;
+		border-radius: 30px;
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+}
+/* Screen Size */
+
+/* Img */
+.imgcon {
+	height: auto;
+	width: 400px;
+	margin-left: 40px;
+}
+
+/* Img */
+
+/* Receipt */
+
+#title {
+	margin-top: 70px;
+	text-shadow: 1px 1px #000000;
+}
+
+#button {
+	width: 198px;
+	border: 0px;
+	padding: 15px;
+	background-color: rgb(33, 147, 235);
+	color: white;
+}
+
